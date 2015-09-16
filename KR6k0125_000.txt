@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 優婆塞五戒威儀經
+#+DATE: 2015-08-30 20:44:47.554889
+#+PROPERTY: JUAN 0
